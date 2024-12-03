@@ -38,5 +38,5 @@ More information and additional material can be found here [Summary of Tutorials
   <!-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W24/blob/main/solutions/Exercise_7_Solution.ipynb) -->
 - Week 8
   - [Exercise 8: Vision-Language Models](https://colab.research.google.com/github/CS4MS/CS4MS_W24/blob/main/exercises/Exercise_8.ipynb)
-  <!-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W24/blob/main/solutions/Exercise_8_Solution.ipynb) --> -->
+  <!-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W24/blob/main/solutions/Exercise_8_Solution.ipynb) -->
   
